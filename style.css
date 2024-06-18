@@ -331,10 +331,19 @@ p {
   }
 
 
-  .right3 {
-    float: right;
+ .right3 {
+    display: flex;
+      float: right;
     text-align: right;
+    padding-top: 100px; padding-right: 200px; 
   }
+
+/* For screens smaller than 600px */
+@media screen and (max-width: 1000px) {
+  .right3 {
+    display: none;
+  }
+}
 
 
 
