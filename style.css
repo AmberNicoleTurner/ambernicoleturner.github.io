@@ -335,7 +335,10 @@ p {
     display: flex;
       float: right;
     text-align: right;
-    padding-top: 100px; padding-right: 200px; 
+    padding-top: 100px; padding-right: 200px;
+     border-radius: 10px;
+    filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
+    background-size: 120%;
   }
 
 /* For screens smaller than 600px */
