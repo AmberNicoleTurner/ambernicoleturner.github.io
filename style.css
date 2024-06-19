@@ -342,7 +342,7 @@ p {
   }
 
 /* For screens smaller than 600px */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
   .right3 {
     display: none;
   }
