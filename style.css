@@ -936,18 +936,18 @@ footer a{
   position: relative;
 }
 
-.pabout-containers {
+.about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
 
-.pabout-details-container {
+.about-details-container {
   justify-content: center;
   flex-direction: column;
 }
 
-.pabout-containers,
+.about-containers,
 .pabout-details-container {
   display: flex;
 }
@@ -975,7 +975,7 @@ footer a{
   margin-bottom: 2rem;
 }
 
-.pexperience-details-container {
+.experience-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -1003,7 +1003,7 @@ article .icon {
 
 /* PROJECTS SECTION */
 
-#pprojects {
+#featuredprojects {
   position: relative;
 }
 
@@ -1031,7 +1031,7 @@ article .icon {
 
 @media screen and (max-width: 1400px) {
 
-  .pabout-containers {
+  .about-containers {
     flex-wrap: wrap;
   }
 
@@ -1040,14 +1040,14 @@ article .icon {
     margin-top: 2rem;
   }
 
-  .pabout-containers {
+  .about-containers {
     margin-top: 0;
   }
 }
 
 @media screen and (max-width: 600px) {
  
-  .pabout-containers,
+  .about-containers,
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
