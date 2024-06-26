@@ -1043,7 +1043,11 @@ article .icon {
   width: 400px;
   margin: auto 0;
 }
-
+.project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+}
 
 
 
