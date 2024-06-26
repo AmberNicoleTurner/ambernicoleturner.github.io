@@ -348,7 +348,11 @@ p {
     align-items: center; /* Aligns the content to the center vertically */
     height: 100%;
     width: 100%;
+    max-width: 90%; /* Ensures the container does not stretch too far to the right */
+    padding-right: 150px; /* Adds padding to the right */
+    box-sizing: border-box; /* Ensures padding is included in the container's total width */
 }
+
 
 
 /* For screens smaller than 600px */
