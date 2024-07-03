@@ -1084,7 +1084,7 @@ section {
     @media screen and (max-width: 600px) {
  
    .experience-details-container {
-    text-align: center;
+    justify-content: center;
   }
  
 
