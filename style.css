@@ -890,7 +890,7 @@ footer a{
     color: #fff;
 }
 .social-media i:hover{
-    color: rgb(2,255,171);
+    color: rgb(255, 191, 0);
 }
 
 @media(max-width:810px){
