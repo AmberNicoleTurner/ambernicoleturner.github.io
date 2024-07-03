@@ -1080,5 +1080,15 @@ section {
   .experience-details-container {
     text-align: center;
   }
+
+    @media screen and (max-width: 600px) {
+ 
+   .experience-details-container {
+      display: flex;
+  justify-content: center;
+  flex-direction: column;
+  }
+ 
+
  
 
