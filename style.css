@@ -979,6 +979,7 @@ footer a{
   display: flex;
   justify-content: center;
   flex-direction: column;
+padding: 200px;
 }
 
 .article-container {
