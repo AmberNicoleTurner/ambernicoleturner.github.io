@@ -1092,14 +1092,6 @@ section {
     padding: 0px; 
   }
 
-/*header image for sub pages*/
-
-.header-image {
-  width: 100%;
-    height: 20vh;
-     overflow: hidden; /* Hide any overflow */
-            position: relative; 
-}
 
 
 
