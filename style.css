@@ -1105,6 +1105,16 @@ section {
     font-size: 15px;
    }
   }
-     
+
+         @media screen and (max-width: 800px) {
+ 
+   .content p {
+    width: 80%;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-size: 15px;
+   }
+  }
  
 
