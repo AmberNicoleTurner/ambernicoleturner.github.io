@@ -1085,6 +1085,7 @@ section {
  
    .experience-details-container {
     justify-content: center;
+    padding: 0px; 
   }
  
 
