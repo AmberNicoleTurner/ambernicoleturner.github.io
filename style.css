@@ -365,6 +365,9 @@ p {
 
 
 
+
+
+
   .right1 {
     width: 50%;
     height: 300px;
@@ -1107,5 +1110,18 @@ section {
     transform: translateY(-20%);
 }
 
+
+
+  @media screen and (max-width: 500px) {
+ 
+   .content p {
+    width: 80%;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-size: 15px;
+   }
+  }
+     
  
 
