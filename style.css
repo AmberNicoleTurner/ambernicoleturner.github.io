@@ -1084,9 +1084,7 @@ section {
     @media screen and (max-width: 600px) {
  
    .experience-details-container {
-      display: flex;
-  justify-content: center;
-  flex-direction: column;
+    text-align: center;
   }
  
 
