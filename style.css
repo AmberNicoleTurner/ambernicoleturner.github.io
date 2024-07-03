@@ -980,6 +980,7 @@ footer a{
   justify-content: center;
   flex-direction: column;
   padding: 100px;
+  top-padding: -80px; 
 }
 
 .article-container {
