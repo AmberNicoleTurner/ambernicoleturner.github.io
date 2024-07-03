@@ -979,7 +979,7 @@ footer a{
   display: flex;
   justify-content: center;
   flex-direction: column;
-padding: 200px;
+  padding: 100px;
 }
 
 .article-container {
@@ -1037,7 +1037,7 @@ article .icon {
   }
 
   #experience,
-  .pexperience-details-container {
+  .experience-details-container {
     margin-top: 2rem;
   }
 
