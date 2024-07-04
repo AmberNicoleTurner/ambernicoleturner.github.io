@@ -1082,7 +1082,7 @@ section {
   .experience-details-container {
     text-align: center;
   }
-
+}
     @media screen and (max-width: 600px) {
  
    .experience-details-container {
@@ -1090,7 +1090,7 @@ section {
     padding: 0px; 
   }
 
-
+    }
 
 
   @media screen and (max-width: 500px) {
@@ -1103,7 +1103,10 @@ section {
     font-size: 15px;
    }
   }
- 
+
+
+        /*media queries*/
+        
 .ttop-nav {
   display: flex;
   flex-direction: row;
