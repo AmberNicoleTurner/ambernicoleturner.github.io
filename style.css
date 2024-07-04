@@ -1104,4 +1104,14 @@ section {
    }
   }
  
-
+.project-top-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: #FFF;
+  height: 10px;
+  padding: 30px 70px;
+  padding-top: 40px;
+  background: royal blue; 
+}
