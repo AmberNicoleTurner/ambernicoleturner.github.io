@@ -620,7 +620,7 @@ p {
     margin: 0;
     padding: 0.5em 0;
     width: 100%;
-    background: linear-gradient(-30deg, #39e9d1, #cd6de6, #23a6d5, #23d5ab);
+    background: linear-gradient(-30deg, #4E65FF, #6686cc,#62cff4, #2c67f2);
 
   }
   .menu > li:not(:last-child) {
