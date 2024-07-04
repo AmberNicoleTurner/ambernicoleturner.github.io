@@ -482,6 +482,19 @@ p {
   padding-top: 40px;
 
 }
+
+.ttop-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: #FFF;
+  height: 10px;
+  padding: 30px 70px;
+  padding-top: 40px;
+  background: black; 
+}
+
 .top-nav a:hover{
     color: #FFBF00;
     text-decoration: none;
@@ -1105,16 +1118,4 @@ section {
   }
 
 
-        /*media queries*/
         
-.ttop-nav {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  color: #FFF;
-  height: 10px;
-  padding: 30px 70px;
-  padding-top: 40px;
-  background: black; 
-}
