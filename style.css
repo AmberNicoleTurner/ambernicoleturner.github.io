@@ -349,7 +349,7 @@ p {
     height: 100%;
     width: 100%;
     max-width: 90%; /* Ensures the container does not stretch too far to the right */
-    padding-right: 150px; /* Adds padding to the right */
+    padding-right: 30px; /* Adds padding to the right */
     box-sizing: border-box; /* Ensures padding is included in the container's total width */
 }
 
