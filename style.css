@@ -15,6 +15,10 @@
 }
 
 
+.container p {
+    font-size: 14px;
+}
+
 /* Education and Work History */
 body {
     font-family: 'Arial', sans-serif;
@@ -1118,4 +1122,4 @@ section {
   }
 
 
-        
+
