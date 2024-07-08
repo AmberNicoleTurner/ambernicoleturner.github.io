@@ -776,6 +776,14 @@ p {
     }
 }
 
+
+@media only screen and (max-width: 2000px) and (min-width: 1400px){
+    .hero{
+        height: 120vh;
+    }
+}
+
+
 nav{
     position: absolute;
     top: 0;
@@ -842,6 +850,7 @@ nav{
     margin-bottom: 30px;
     font-size: 20px;
 }
+
 
 
 /* ANIMATION */
